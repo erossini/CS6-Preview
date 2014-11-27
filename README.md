@@ -1,7 +1,7 @@
 CS6-Preview
 ===========
 
-Some news in C# 6 and Visual Studio 2015
+Some news in C# 6 and Visual Studio 2015. For more info visit http://www.visualstudio.com/en-us/news/vs2015-preview-vs.aspx
 
 History (a summary)
 ===================
