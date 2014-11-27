@@ -1,0 +1,8 @@
+C:\Users\e.rossini\Desktop\CSharp6 Preview\bin\Debug\CSharp6 Preview.exe.config
+C:\Users\e.rossini\Desktop\CSharp6 Preview\bin\Debug\CSharp6 Preview.exe
+C:\Users\e.rossini\Desktop\CSharp6 Preview\bin\Debug\CSharp6 Preview.pdb
+C:\Users\e.rossini\Desktop\CSharp6 Preview\obj\Debug\CSharp6 Preview.exe
+C:\Users\e.rossini\Desktop\CSharp6 Preview\obj\Debug\CSharp6 Preview.pdb
+C:\Users\e.rossini\Desktop\CS6Preview\CSharp6 Preview\bin\Debug\CSharp6 Preview.exe.config
+C:\Users\e.rossini\Desktop\CS6Preview\CSharp6 Preview\obj\Debug\CSharp6 Preview.exe
+C:\Users\e.rossini\Desktop\CS6Preview\CSharp6 Preview\obj\Debug\CSharp6 Preview.pdb
