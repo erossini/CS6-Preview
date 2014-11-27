@@ -39,6 +39,5 @@ Solves a real problem and better than a current work around
 - NameOf expressions *
 - Null Propogation operator (AKA Null-conditional)
 - Element and Index Initializers
-
-- string interpolation * - Coming but not yet in the preview
+- string interpolation * / Coming but not yet in the preview
 - #pragma changes - Coming but not yet in the preview 
